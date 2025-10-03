@@ -58,21 +58,21 @@ llm:
   provider: "openai"
   base_url: "https://api.deepseek.com"
   #YOUR_DEEPSEEK_API_KEY
-  api_key: null 
+  api_key: "sk-7bd22494ecb54be5b49adb803f4b2792"
   model_name: "deepseek-chat"
 
 llm_thinking:
   provider: "openai"
   base_url: "https://api.deepseek.com"
   #YOUR_DEEPSEEK_API_KEY
-  api_key: null 
+  api_key: "sk-7bd22494ecb54be5b49adb803f4b2792"
   model_name: "deepseek-reasoner"
 
 vlm:
   provider: "openai"
   base_url: "https://api.stepfun.com/v1"
   #YOUR_STEPFUN_API_KEY
-  api_key: null 
+  api_key: "5FTwlm53E34sxyrCBzz39xoyOXEJEsSwqchHgwMnEvr6Twy72Tqtp5ySIC5fpmHDG"
   model_name: "step-1o-turbo-vision"
 
 
